@@ -1,0 +1,10 @@
+# Dataset directory (raw dataset must not be committed)
+data/
+
+# Python & Jupyter checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+env/
